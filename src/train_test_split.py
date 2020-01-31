@@ -4,7 +4,6 @@ sklearn's train_test_split implementation.
 
 import numpy as np
 from itertools import chain
-from sklearn.model_selection import train_test_split as sk_tts
 
 def _indexing(x, indices):
     """
