@@ -1,0 +1,5 @@
+tensorflow==2.3.0
+opencv-python
+scikit-learn==0.22.0
+scikit-image
+pandas
